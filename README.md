@@ -30,8 +30,9 @@
 	terraform apply
 ```	 
 **TODO**
+```
 	Remove ELB and setup EIP (attach) on instances on boot.
 	Move EFS to other private subnet.
 	Create auto updater for Security Groups with our public IP address.
-	
+```	
 
